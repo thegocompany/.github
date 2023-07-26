@@ -1,7 +1,3 @@
-![The Go Company](/static/thegocompany-logo-grey.png)
-
----
-
 ### Pull Request
 
 --- 
