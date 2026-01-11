@@ -6,7 +6,7 @@
 
 ```text
 
-
+A brief description of the pull request goes in here...
 
 ```
 
@@ -18,9 +18,10 @@
 - I have performed a self-review of my code.
 - If it is a core feature, I have added thorough tests.
 - I have written simple, clean, performant code, which is well commented and linted.
-- I have added myself as well as the reviewers to the `Assignees` for this pull request.
+- I have added myself as the `Assignees` for this pull request.
 - I have previewed the above markdown.
 
 *Note: Remove this section once complete.*
 
 ---
+
